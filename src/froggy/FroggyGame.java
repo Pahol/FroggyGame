@@ -24,6 +24,7 @@ public class FroggyGame extends BasicGame {
 	public void render(GameContainer container, Graphics g) throws SlickException {
 		background.draw(0, 0, GAME_WIDTH, GAME_HEIGHT);
 		ground.draw(0, GROUND_LEVEL);
+		
 	}
 
 	@Override
