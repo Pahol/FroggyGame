@@ -1,5 +1,7 @@
 package froggy;
 
+import java.util.Random;
+
 import org.newdawn.slick.Image;
 import org.newdawn.slick.SlickException;
 
@@ -16,7 +18,12 @@ public class Tree {
 	}
 		 
 	public void render() {
-		tree.draw(x, y, 100, 400); 
+		tree.draw(x, y + 150, 150, 400);
+	}
+	
+	public void randomTreeHigh() {
+		Random random = new Random();
+		this.y =  + random.nextInt(240);
 	}
 
 }
