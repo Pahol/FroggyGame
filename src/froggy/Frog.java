@@ -7,17 +7,20 @@ public class Frog {
 	
 	public static final int FROG_WIDTH = 75;
 	public static final int FROG_HEIGHT = 75;
+	public static final int INITAIL_VY = 17;
 	
 	private float x;
 	private float y;
 	private Image image;
 	private float vy;
+	private float vjump;
 	 
-	public Frog(float x, float y, float vy) throws SlickException {
+	public Frog(float x, float y, float vjump) throws SlickException {
 		this.x = x;
 		this.y = y;
 		image = new Image("picture/frog.png");
-		this.vy = vy;
+		this.vy = INITAIL_VY;
+		this.vjump = vjump;
 	}
 	 
 	public void render() {
@@ -25,11 +28,23 @@ public class Frog {
 	}
 
 	public void update() {
-		y += vy;
-		vy += FroggyGame.G;
+		y -= vy;
+		vy += FroggyGame.G/2;
+		if (isCollide(y) == true) {
+			vy = INITAIL_VY;
+		}
 	}
-	
-	public void setVy(float vy) {
-		this.vy = vy;
+
+	private boolean isCollide(float y) {
+		if(y >= FroggyGame.GROUND_LEVEL) {
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
+
+	public void jump() {
+		vy = -vjump;		
 	}
 }
