@@ -16,6 +16,8 @@ public class FroggyGame extends BasicGame {
 	public static final int GAME_WIDTH = 1440;
 	public static final int GAME_HEIGHT = 960;
 	public static final int GROUND_LEVEL = 860;
+	public static final float DOT_INITIAL_VY = 25;
+	public static final float G = (float) -0.5;
 	
 	public FroggyGame(String title) {
 		super(title);
@@ -32,13 +34,13 @@ public class FroggyGame extends BasicGame {
 	public void init(GameContainer container) throws SlickException {
 		background = new Image("picture/background.jpg");
 		ground = new Image("picture/ground.png");
-		frog = new Frog(100, GROUND_LEVEL);
+		frog = new Frog(100, GROUND_LEVEL, DOT_INITIAL_VY);
 		
 	}
 
 	@Override
 	public void update(GameContainer container, int delta) throws SlickException {
-		// TODO Auto-generated method stub	
+		frog.update();
 	}
 
 
@@ -46,7 +48,8 @@ public class FroggyGame extends BasicGame {
 		try {
 			FroggyGame game = new FroggyGame("Froggy Game");
 			AppGameContainer appgc = new AppGameContainer(game);
-			appgc.setDisplayMode(1440, 960, false);
+			appgc.setDisplayMode(GAME_WIDTH, GAME_HEIGHT, false);
+			appgc.setMinimumLogicUpdateInterval(1000 / 60);
 			appgc.start();
 		} catch (SlickException e) {
 			e.printStackTrace();
