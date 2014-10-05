@@ -10,7 +10,8 @@ import org.newdawn.slick.SlickException;
 public class FroggyGame extends BasicGame {
 	
 	Image background;
-	//Image ground;
+	Image ground;
+	private Frog frog;
 	
 	public static final int GAME_WIDTH = 1440;
 	public static final int GAME_HEIGHT = 960;
@@ -23,13 +24,15 @@ public class FroggyGame extends BasicGame {
 	@Override
 	public void render(GameContainer container, Graphics g) throws SlickException {
 		background.draw(0, 0, GAME_WIDTH, GAME_HEIGHT);
-		//ground.draw(0, GROUND_LEVEL);
+		ground.draw(0, GROUND_LEVEL);
+		frog.render();
 	}
 
 	@Override
 	public void init(GameContainer container) throws SlickException {
 		background = new Image("picture/background.jpg");
-		//ground = new Image("picture/ground.png");
+		ground = new Image("picture/ground.png");
+		frog = new Frog(100, GROUND_LEVEL);
 		
 	}
 
