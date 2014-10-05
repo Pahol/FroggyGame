@@ -17,8 +17,9 @@ public class FroggyGame extends BasicGame {
 	public static final int GAME_WIDTH = 1440;
 	public static final int GAME_HEIGHT = 960;
 	public static final int GROUND_LEVEL = 860;
-	public static final float FROG_JUMPDOWN_VY = 20;
+	public static final float FROG_JUMPDOWN_VY = 40;
 	public static final float G = (float) -0.5;
+	public static final float TREE_VX = -8;
 	
 	private boolean isStarted = false;
 	private Tree tree;
@@ -39,8 +40,8 @@ public class FroggyGame extends BasicGame {
 	public void init(GameContainer container) throws SlickException {
 		background = new Image("picture/background.jpg");
 		ground = new Image("picture/ground.png");
-		frog = new Frog(100, GROUND_LEVEL, FROG_JUMPDOWN_VY);
-		tree = new Tree(GAME_WIDTH/2, GAME_HEIGHT/2);
+		frog = new Frog(300, GROUND_LEVEL, FROG_JUMPDOWN_VY);
+		tree = new Tree(GAME_WIDTH/2, GAME_HEIGHT/2, TREE_VX);
 		
 	}
 	
@@ -48,6 +49,7 @@ public class FroggyGame extends BasicGame {
 	public void update(GameContainer container, int delta) throws SlickException {
 		if (isStarted == true) {
 			frog.update();
+			tree.update();
 		}
 	}
 	
