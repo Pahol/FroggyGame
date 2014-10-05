@@ -20,6 +20,8 @@ public class FroggyGame extends BasicGame {
 	public static final float DOT_JUMP_VY = 20;
 	public static final float G = (float) -0.5;
 	
+	private boolean isStarted = false;
+	
 	public FroggyGame(String title) {
 		super(title);
 	}
@@ -38,18 +40,21 @@ public class FroggyGame extends BasicGame {
 		frog = new Frog(100, GROUND_LEVEL, DOT_JUMP_VY);
 		
 	}
-
+	
 	@Override
 	public void update(GameContainer container, int delta) throws SlickException {
-		frog.update();
+		if (isStarted == true) {
+			frog.update();
+		}
 	}
 	
 	@Override
-	  public void keyPressed(int key, char c) {
-	    if (key == Input.KEY_SPACE) {
-	    	 frog.jump();
+	public void keyPressed(int key, char c) {
+		if (key == Input.KEY_SPACE) {
+	    	isStarted = true;
+	    	frog.jump();
 	    }
-	  }
+	}
 
 
 	public static void main(String[] args) {
