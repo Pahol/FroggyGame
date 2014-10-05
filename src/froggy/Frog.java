@@ -7,7 +7,7 @@ public class Frog {
 	
 	public static final int FROG_WIDTH = 75;
 	public static final int FROG_HEIGHT = 75;
-	public static final int INITAIL_VY = 17;
+	public static final int FROG_JUMP_UP_VY = 17;
 	
 	private float x;
 	private float y;
@@ -19,7 +19,7 @@ public class Frog {
 		this.x = x;
 		this.y = y;
 		image = new Image("picture/frog.png");
-		this.vy = INITAIL_VY;
+		this.vy = FROG_JUMP_UP_VY;
 		this.vjump = vjump;
 	}
 	 
@@ -31,7 +31,7 @@ public class Frog {
 		y -= vy;
 		vy += FroggyGame.G/2;
 		if (isCollide(y) == true) {
-			vy = INITAIL_VY;
+			vy = FROG_JUMP_UP_VY;
 		}
 	}
 
