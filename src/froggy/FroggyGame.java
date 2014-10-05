@@ -5,6 +5,7 @@ import org.newdawn.slick.BasicGame;
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
 import org.newdawn.slick.Image;
+import org.newdawn.slick.Input;
 import org.newdawn.slick.SlickException;
 
 public class FroggyGame extends BasicGame {
@@ -16,7 +17,7 @@ public class FroggyGame extends BasicGame {
 	public static final int GAME_WIDTH = 1440;
 	public static final int GAME_HEIGHT = 960;
 	public static final int GROUND_LEVEL = 860;
-	public static final float DOT_INITIAL_VY = 25;
+	public static final float DOT_INITIAL_VY = 20;
 	public static final float G = (float) -0.5;
 	
 	public FroggyGame(String title) {
@@ -42,6 +43,13 @@ public class FroggyGame extends BasicGame {
 	public void update(GameContainer container, int delta) throws SlickException {
 		frog.update();
 	}
+	
+	@Override
+	  public void keyPressed(int key, char c) {
+	    if (key == Input.KEY_SPACE) {
+	    	frog.setVy(DOT_INITIAL_VY);
+	    }
+	  }
 
 
 	public static void main(String[] args) {

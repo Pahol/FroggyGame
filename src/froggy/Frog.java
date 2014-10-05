@@ -25,10 +25,11 @@ public class Frog {
 	}
 
 	public void update() {
-		y -= vy;
+		y += vy;
 		vy += FroggyGame.G;
-		if (y == FroggyGame.GROUND_LEVEL - FROG_HEIGHT) {
-			vy = FroggyGame.DOT_INITIAL_VY;
-		}
+	}
+	
+	public void setVy(float vy) {
+		this.vy = vy;
 	}
 }
