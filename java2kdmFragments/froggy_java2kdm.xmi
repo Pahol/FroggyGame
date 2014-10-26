@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:javaapplication="http://www.eclipse.org/MoDisco/Java/Composition/0.1.incubation/javaApplication">
+  <javaapplication:Java2File>
+    <file href="../froggy_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.14/@inventoryElement.0/@inventoryElement.0"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="19" endLine="3" endPosition="50">
+      <node href="../froggy_java.xmi#//@compilationUnits.0/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="52" endLine="4" endPosition="92">
+      <node href="../froggy_java.xmi#//@compilationUnits.0/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="96" endLine="50" endPosition="973">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="121" endLine="8" endPosition="161">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="141" endLine="8" endPosition="144">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="145" endLine="8" endPosition="160">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="158" endLine="8" endPosition="160">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="164" endLine="9" endPosition="205">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="184" endLine="9" endPosition="187">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="188" endLine="9" endPosition="204">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="202" endLine="9" endPosition="204">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="208" endLine="10" endPosition="253">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="228" endLine="10" endPosition="231">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="232" endLine="10" endPosition="252">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="250" endLine="10" endPosition="252">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="259" endLine="12" endPosition="275">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="267" endLine="12" endPosition="272">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="273" endLine="12" endPosition="274">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="278" endLine="13" endPosition="294">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="286" endLine="13" endPosition="291">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="292" endLine="13" endPosition="293">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="297" endLine="14" endPosition="317">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="305" endLine="14" endPosition="310">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.5/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="305" endLine="14" endPosition="310">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.5/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="311" endLine="14" endPosition="316">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.5/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="320" endLine="15" endPosition="337">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="328" endLine="15" endPosition="333">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.6/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="334" endLine="15" endPosition="336">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.6/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="340" endLine="16" endPosition="360">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="348" endLine="16" endPosition="353">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.7/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="354" endLine="16" endPosition="359">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.7/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="367" endLine="24" endPosition="562">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="379" endLine="18" endPosition="386">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="379" endLine="18" endPosition="384">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="388" endLine="18" endPosition="395">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="388" endLine="18" endPosition="393">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="397" endLine="18" endPosition="408">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@parameters.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="397" endLine="18" endPosition="402">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@parameters.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="417" endLine="18" endPosition="431">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="432" endLine="24" endPosition="562">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="437" endLine="19" endPosition="443">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="437" endLine="19" endPosition="448">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="437" endLine="19" endPosition="441">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="437" endLine="19" endPosition="447">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="442" endLine="19" endPosition="443">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="446" endLine="19" endPosition="447">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="452" endLine="20" endPosition="458">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="452" endLine="20" endPosition="463">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="452" endLine="20" endPosition="462">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="452" endLine="20" endPosition="456">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.1/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="457" endLine="20" endPosition="458">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.1/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="461" endLine="20" endPosition="462">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="467" endLine="21" endPosition="505">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="467" endLine="21" endPosition="472">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="467" endLine="21" endPosition="504">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="475" endLine="21" endPosition="504">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="479" endLine="21" endPosition="484">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="479" endLine="21" endPosition="484">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="485" endLine="21" endPosition="503">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="509" endLine="22" endPosition="534">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="509" endLine="22" endPosition="513">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.3/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="509" endLine="22" endPosition="516">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.3/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="509" endLine="22" endPosition="535">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="514" endLine="22" endPosition="516">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.3/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="519" endLine="22" endPosition="534">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.3/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="539" endLine="23" endPosition="549">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.4/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="539" endLine="23" endPosition="557">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.4/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="539" endLine="23" endPosition="543">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.4/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="539" endLine="23" endPosition="558">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="544" endLine="23" endPosition="549">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.4/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="552" endLine="23" endPosition="557">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.8/@body/@statements.4/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="569" endLine="28" endPosition="655">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="576" endLine="26" endPosition="580">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="590" endLine="28" endPosition="655">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="595" endLine="27" endPosition="600">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="595" endLine="27" endPosition="651">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="595" endLine="27" endPosition="650">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="606" endLine="27" endPosition="607">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="609" endLine="27" endPosition="610">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@arguments.1/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="609" endLine="27" endPosition="624">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="613" endLine="27" endPosition="624">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@arguments.1/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="626" endLine="27" endPosition="636">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="638" endLine="27" endPosition="649">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@arguments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="660" endLine="36" endPosition="785">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="667" endLine="30" endPosition="671">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="681" endLine="36" endPosition="785">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="686" endLine="31" endPosition="694">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="686" endLine="31" endPosition="687">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="686" endLine="31" endPosition="693">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="691" endLine="31" endPosition="693">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="698" endLine="32" endPosition="700">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="698" endLine="32" endPosition="719">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="698" endLine="32" endPosition="718">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="704" endLine="32" endPosition="714">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@rightHandSide/@leftOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="704" endLine="32" endPosition="718">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="704" endLine="32" endPosition="716">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@rightHandSide/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="715" endLine="32" endPosition="716">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@rightHandSide/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="717" endLine="32" endPosition="718">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@rightHandSide/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="723" endLine="35" endPosition="781">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="727" endLine="33" endPosition="747">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="727" endLine="33" endPosition="739">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="737" endLine="33" endPosition="738">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@leftOperand/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="743" endLine="33" endPosition="747">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="749" endLine="35" endPosition="781">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="755" endLine="34" endPosition="775">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="755" endLine="34" endPosition="776">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="755" endLine="34" endPosition="757">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="760" endLine="34" endPosition="775">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="790" endLine="45" endPosition="923">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="798" endLine="38" endPosition="805">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="816" endLine="38" endPosition="823">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="816" endLine="38" endPosition="821">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="825" endLine="45" endPosition="923">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="830" endLine="44" endPosition="919">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="833" endLine="39" endPosition="834">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="833" endLine="39" endPosition="861">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="838" endLine="39" endPosition="848">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@expression/@rightOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="838" endLine="39" endPosition="861">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="849" endLine="39" endPosition="861">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="863" endLine="41" endPosition="886">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="869" endLine="40" endPosition="881">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="876" endLine="40" endPosition="880">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="895" endLine="44" endPosition="919">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@elseStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="901" endLine="43" endPosition="914">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@elseStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="908" endLine="43" endPosition="913">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.11/@body/@statements.0/@elseStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="928" endLine="49" endPosition="970">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="935" endLine="47" endPosition="939">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="947" endLine="49" endPosition="970">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="952" endLine="48" endPosition="954">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="952" endLine="48" endPosition="964">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="952" endLine="48" endPosition="963">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="957" endLine="48" endPosition="963">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="958" endLine="48" endPosition="963">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12/@body/@statements.0/@expression/@rightHandSide/@operand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="996" endLine="36" endPosition="1002">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1446" endLine="51" endPosition="1452">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1613" endLine="60" endPosition="1617">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.12"/>
+    </children>
+    <unit href="../froggy_java.xmi#//@compilationUnits.0"/>
+    <parent href="Package2Directory_java2kdm.xmi#/"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../froggy_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.14/@inventoryElement.0/@inventoryElement.2"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="19" endLine="3" endPosition="43">
+      <node href="../froggy_java.xmi#//@compilationUnits.1/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="47" endLine="5" endPosition="78">
+      <node href="../froggy_java.xmi#//@compilationUnits.1/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="80" endLine="6" endPosition="120">
+      <node href="../froggy_java.xmi#//@compilationUnits.1/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="124" endLine="38" endPosition="659">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="149" endLine="10" endPosition="168">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="157" endLine="10" endPosition="162">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="157" endLine="10" endPosition="162">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="163" endLine="10" endPosition="167">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="171" endLine="11" endPosition="187">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="179" endLine="11" endPosition="184">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="185" endLine="11" endPosition="186">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="190" endLine="12" endPosition="206">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="198" endLine="12" endPosition="203">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="204" endLine="12" endPosition="205">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="209" endLine="13" endPosition="226">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="217" endLine="13" endPosition="222">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="223" endLine="13" endPosition="225">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="232" endLine="20" endPosition="387">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="244" endLine="15" endPosition="249">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="244" endLine="15" endPosition="251">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="253" endLine="15" endPosition="258">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="253" endLine="15" endPosition="260">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="262" endLine="15" endPosition="270">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@parameters.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="262" endLine="15" endPosition="267">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@parameters.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="279" endLine="15" endPosition="293">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="294" endLine="20" endPosition="387">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="299" endLine="16" endPosition="310">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="299" endLine="16" endPosition="305">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="299" endLine="16" endPosition="303">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="299" endLine="16" endPosition="309">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="304" endLine="16" endPosition="305">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="308" endLine="16" endPosition="309">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="314" endLine="17" endPosition="320">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="314" endLine="17" endPosition="318">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="314" endLine="17" endPosition="325">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="314" endLine="17" endPosition="324">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="319" endLine="17" endPosition="320">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="323" endLine="17" endPosition="324">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="329" endLine="18" endPosition="341">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="329" endLine="18" endPosition="333">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.2/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="329" endLine="18" endPosition="336">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="329" endLine="18" endPosition="342">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="334" endLine="18" endPosition="336">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.2/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="339" endLine="18" endPosition="341">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="346" endLine="19" endPosition="383">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="346" endLine="19" endPosition="382">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="346" endLine="19" endPosition="350">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="353" endLine="19" endPosition="382">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="357" endLine="19" endPosition="362">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="357" endLine="19" endPosition="362">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="363" endLine="19" endPosition="381">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@body/@statements.3/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="395" endLine="24" endPosition="451">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="402" endLine="22" endPosition="406">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="416" endLine="24" endPosition="451">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="421" endLine="23" endPosition="425">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="421" endLine="23" endPosition="446">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="421" endLine="23" endPosition="447">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="431" endLine="23" endPosition="432">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="434" endLine="23" endPosition="435">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="437" endLine="23" endPosition="440">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="442" endLine="23" endPosition="445">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="457" endLine="29" endPosition="557">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="464" endLine="26" endPosition="468">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="486" endLine="29" endPosition="557">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="491" endLine="27" endPosition="497">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="491" endLine="27" endPosition="497">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="491" endLine="27" endPosition="520">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="498" endLine="27" endPosition="519">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="507" endLine="27" endPosition="519">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="511" endLine="27" endPosition="517">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="511" endLine="27" endPosition="517">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="524" endLine="28" endPosition="553">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="524" endLine="28" endPosition="528">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="524" endLine="28" endPosition="552">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="524" endLine="28" endPosition="530">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="529" endLine="28" endPosition="530">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="533" endLine="28" endPosition="539">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression/@rightHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="533" endLine="28" endPosition="552">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="548" endLine="28" endPosition="551">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.1/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="563" endLine="36" endPosition="654">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="570" endLine="31" endPosition="574">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="584" endLine="36" endPosition="654">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="589" endLine="34" endPosition="638">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="593" endLine="32" endPosition="594">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="593" endLine="32" endPosition="599">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="598" endLine="32" endPosition="599">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="601" endLine="34" endPosition="638">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="607" endLine="33" endPosition="608">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="607" endLine="33" endPosition="632">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="607" endLine="33" endPosition="633">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="611" endLine="33" endPosition="621">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="611" endLine="33" endPosition="632">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="622" endLine="33" endPosition="632">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="642" endLine="35" endPosition="643">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="642" endLine="35" endPosition="649">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="642" endLine="35" endPosition="650">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="647" endLine="35" endPosition="649">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="945" endLine="34" endPosition="951">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1465" endLine="52" endPosition="1471">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7"/>
+    </children>
+    <unit href="../froggy_java.xmi#//@compilationUnits.1"/>
+    <parent href="Package2Directory_java2kdm.xmi#/"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../froggy_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.14/@inventoryElement.0/@inventoryElement.1"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="19" endLine="3" endPosition="61">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="63" endLine="4" endPosition="98">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="100" endLine="5" endPosition="139">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="141" endLine="6" endPosition="175">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="177" endLine="7" endPosition="208">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="210" endLine="8" endPosition="241">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="243" endLine="9" endPosition="283">
+      <node href="../froggy_java.xmi#//@compilationUnits.2/@imports.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="287" endLine="-1" endPosition="1999">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="319" endLine="11" endPosition="328">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="319" endLine="11" endPosition="328">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="336" endLine="13" endPosition="341">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="336" endLine="13" endPosition="353">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="336" endLine="13" endPosition="341">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="342" endLine="13" endPosition="352">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="356" endLine="14" endPosition="361">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="356" endLine="14" endPosition="369">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="356" endLine="14" endPosition="361">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="362" endLine="14" endPosition="368">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="372" endLine="15" endPosition="390">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="380" endLine="15" endPosition="384">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="380" endLine="15" endPosition="384">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="385" endLine="15" endPosition="389">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="396" endLine="17" endPosition="438">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="416" endLine="17" endPosition="419">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="420" endLine="17" endPosition="437">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="433" endLine="17" endPosition="437">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="441" endLine="18" endPosition="483">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="461" endLine="18" endPosition="464">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="465" endLine="18" endPosition="482">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="479" endLine="18" endPosition="482">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="486" endLine="19" endPosition="529">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="506" endLine="19" endPosition="509">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="510" endLine="19" endPosition="528">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="525" endLine="19" endPosition="528">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="532" endLine="20" endPosition="580">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="552" endLine="20" endPosition="557">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="558" endLine="20" endPosition="579">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="577" endLine="20" endPosition="579">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="583" endLine="21" endPosition="626">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="603" endLine="21" endPosition="608">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="609" endLine="21" endPosition="625">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="613" endLine="21" endPosition="625">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="614" endLine="21" endPosition="619">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="621" endLine="21" endPosition="625">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@fragments.0/@initializer/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="622" endLine="21" endPosition="625">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@fragments.0/@initializer/@expression/@operand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="629" endLine="22" endPosition="668">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="649" endLine="22" endPosition="654">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="655" endLine="22" endPosition="667">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="665" endLine="22" endPosition="667">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="666" endLine="22" endPosition="667">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@fragments.0/@initializer/@operand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="674" endLine="24" endPosition="708">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="682" endLine="24" endPosition="689">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="690" endLine="24" endPosition="707">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="702" endLine="24" endPosition="707">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="711" endLine="25" endPosition="729">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="719" endLine="25" endPosition="723">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="719" endLine="25" endPosition="723">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="724" endLine="25" endPosition="728">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="735" endLine="29" endPosition="789">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="753" endLine="27" endPosition="759">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="753" endLine="27" endPosition="759">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="753" endLine="27" endPosition="765">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="767" endLine="29" endPosition="789">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="772" endLine="28" endPosition="785">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="778" endLine="28" endPosition="783">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="794" endLine="37" endPosition="1009">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="794" endLine="31" endPosition="803">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="795" endLine="31" endPosition="803">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="813" endLine="32" endPosition="817">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="825" endLine="32" endPosition="848">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="825" endLine="32" endPosition="838">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="825" endLine="32" endPosition="838">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="850" endLine="32" endPosition="858">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="850" endLine="32" endPosition="860">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="850" endLine="32" endPosition="858">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="869" endLine="32" endPosition="883">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="884" endLine="37" endPosition="1009">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="889" endLine="33" endPosition="936">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="889" endLine="33" endPosition="899">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="889" endLine="33" endPosition="935">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="905" endLine="33" endPosition="906">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="908" endLine="33" endPosition="909">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="911" endLine="33" endPosition="921">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="923" endLine="33" endPosition="934">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.0/@expression/@arguments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="940" endLine="34" endPosition="944">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="940" endLine="34" endPosition="954">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="940" endLine="34" endPosition="953">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="958" endLine="35" endPosition="964">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.2/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="958" endLine="35" endPosition="987">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="958" endLine="35" endPosition="986">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="970" endLine="35" endPosition="971">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.2/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="973" endLine="35" endPosition="985">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.2/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="991" endLine="36" endPosition="1004">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="991" endLine="36" endPosition="995">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.3/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="991" endLine="36" endPosition="1005">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.12/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1014" endLine="39" endPosition="1023">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1014" endLine="46" endPosition="1312">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1015" endLine="39" endPosition="1023">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1033" endLine="40" endPosition="1037">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1043" endLine="40" endPosition="1056">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1043" endLine="40" endPosition="1066">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1043" endLine="40" endPosition="1056">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1075" endLine="40" endPosition="1089">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1090" endLine="46" endPosition="1312">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1095" endLine="41" endPosition="1143">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1095" endLine="41" endPosition="1144">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1095" endLine="41" endPosition="1105">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1108" endLine="41" endPosition="1143">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1112" endLine="41" endPosition="1117">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1112" endLine="41" endPosition="1117">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1118" endLine="41" endPosition="1142">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.0/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1148" endLine="42" endPosition="1188">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1148" endLine="42" endPosition="1189">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1148" endLine="42" endPosition="1154">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1157" endLine="42" endPosition="1188">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1161" endLine="42" endPosition="1166">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1161" endLine="42" endPosition="1166">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1167" endLine="42" endPosition="1187">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.1/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1193" endLine="43" endPosition="1197">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1193" endLine="43" endPosition="1245">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1193" endLine="43" endPosition="1246">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1200" endLine="43" endPosition="1245">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1204" endLine="43" endPosition="1208">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1204" endLine="43" endPosition="1208">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1209" endLine="43" endPosition="1212">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1214" endLine="43" endPosition="1226">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@rightHandSide/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1228" endLine="43" endPosition="1244">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.2/@expression/@rightHandSide/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1250" endLine="44" endPosition="1304">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1250" endLine="44" endPosition="1303">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1250" endLine="44" endPosition="1254">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1257" endLine="44" endPosition="1303">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1261" endLine="44" endPosition="1265">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1261" endLine="44" endPosition="1265">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1266" endLine="44" endPosition="1276">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.0/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1266" endLine="44" endPosition="1278">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1277" endLine="44" endPosition="1278">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.0/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1280" endLine="44" endPosition="1293">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1280" endLine="44" endPosition="1291">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.1/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1292" endLine="44" endPosition="1293">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.1/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="1295" endLine="44" endPosition="1302">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.13/@body/@statements.3/@expression/@rightHandSide/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1318" endLine="54" endPosition="1483">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1318" endLine="48" endPosition="1327">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1319" endLine="48" endPosition="1327">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1337" endLine="49" endPosition="1341">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1349" endLine="49" endPosition="1362">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1349" endLine="49" endPosition="1362">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1349" endLine="49" endPosition="1372">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1374" endLine="49" endPosition="1377">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1374" endLine="49" endPosition="1383">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1392" endLine="49" endPosition="1406">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1407" endLine="54" endPosition="1483">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1412" endLine="53" endPosition="1479">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1416" endLine="50" endPosition="1425">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1416" endLine="50" endPosition="1433">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1429" endLine="50" endPosition="1433">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1435" endLine="53" endPosition="1479">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1441" endLine="51" endPosition="1455">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1441" endLine="51" endPosition="1445">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1441" endLine="51" endPosition="1454">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1460" endLine="52" endPosition="1473">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1460" endLine="52" endPosition="1474">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1460" endLine="52" endPosition="1464">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.14/@body/@statements.0/@thenStatement/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1489" endLine="56" endPosition="1498">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1489" endLine="62" endPosition="1632">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1490" endLine="56" endPosition="1498">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1508" endLine="57" endPosition="1512">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1524" endLine="57" endPosition="1531">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1524" endLine="57" endPosition="1527">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1533" endLine="57" endPosition="1539">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1533" endLine="57" endPosition="1537">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1541" endLine="62" endPosition="1632">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1546" endLine="61" endPosition="1628">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1550" endLine="58" endPosition="1572">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1550" endLine="58" endPosition="1553">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1557" endLine="58" endPosition="1562">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@expression/@rightOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1557" endLine="58" endPosition="1572">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1563" endLine="58" endPosition="1572">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1574" endLine="61" endPosition="1628">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1583" endLine="59" endPosition="1600">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1583" endLine="59" endPosition="1592">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1583" endLine="59" endPosition="1599">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1595" endLine="59" endPosition="1599">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1608" endLine="60" endPosition="1612">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1608" endLine="60" endPosition="1620">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1608" endLine="60" endPosition="1619">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.15/@body/@statements.0/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1639" endLine="75" endPosition="1993">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1653" endLine="65" endPosition="1657">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1663" endLine="65" endPosition="1676">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1663" endLine="65" endPosition="1671">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1678" endLine="75" endPosition="1993">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1683" endLine="74" endPosition="1989">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1687" endLine="72" endPosition="1932">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1693" endLine="67" endPosition="1703">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1693" endLine="67" endPosition="1741">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1693" endLine="67" endPosition="1703">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1704" endLine="67" endPosition="1740">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1711" endLine="67" endPosition="1740">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1715" endLine="67" endPosition="1725">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1715" endLine="67" endPosition="1725">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1726" endLine="67" endPosition="1739">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1746" endLine="68" endPosition="1798">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1746" endLine="68" endPosition="1762">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1746" endLine="68" endPosition="1762">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1763" endLine="68" endPosition="1797">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1771" endLine="68" endPosition="1797">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1775" endLine="68" endPosition="1791">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1775" endLine="68" endPosition="1791">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1792" endLine="68" endPosition="1796">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1803" endLine="69" endPosition="1855">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1803" endLine="69" endPosition="1856">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1803" endLine="69" endPosition="1808">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.2/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1824" endLine="69" endPosition="1834">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.2/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1836" endLine="69" endPosition="1847">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.2/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1849" endLine="69" endPosition="1854">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.2/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1861" endLine="70" endPosition="1907">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1861" endLine="70" endPosition="1866">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.3/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1861" endLine="70" endPosition="1908">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1897" endLine="70" endPosition="1906">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.3/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1897" endLine="70" endPosition="1901">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.3/@expression/@arguments.0/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1904" endLine="70" endPosition="1906">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.3/@expression/@arguments.0/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1913" endLine="71" endPosition="1918">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.4/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1913" endLine="71" endPosition="1926">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.4/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1913" endLine="71" endPosition="1927">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@body/@statements.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1933" endLine="74" endPosition="1989">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1940" endLine="72" endPosition="1954">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1940" endLine="72" endPosition="1954">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1940" endLine="72" endPosition="1956">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@exception"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1958" endLine="74" endPosition="1989">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="1964" endLine="73" endPosition="1965">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="1964" endLine="73" endPosition="1983">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="1964" endLine="73" endPosition="1984">
+      <node href="../froggy_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.16/@body/@statements.0/@catchClauses.0/@body/@statements.0"/>
+    </children>
+    <unit href="../froggy_java.xmi#//@compilationUnits.2"/>
+    <parent href="Package2Directory_java2kdm.xmi#/"/>
+  </javaapplication:Java2File>
+</xmi:XMI>
