@@ -20,7 +20,7 @@ public class Tree {
 	}
 		 
 	public void render() {
-		tree.draw(x, y, y*1/3, y*60/100);
+		tree.draw(x, y, 100000/y, 190000/y);
 	}
 	
 	public void randomTreeHigh() {
