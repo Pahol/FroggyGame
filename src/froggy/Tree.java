@@ -20,17 +20,18 @@ public class Tree {
 	}
 		 
 	public void render() {
-		tree.draw(x, y, 150, 400);
+		tree.draw(x, y, y*1/3, y*60/100);
 	}
 	
 	public void randomTreeHigh() {
 		Random random = new Random();
-		this.y = random.nextInt(240);
+		this.y = 480 + random.nextInt(150);
 	}
 	
 	public void update() {
-		if (x == 0) {
+		if (x <= 0) {
 			x = FroggyGame.GAME_WIDTH;
+			randomTreeHigh();
 		}
 		x += vx;
 	}

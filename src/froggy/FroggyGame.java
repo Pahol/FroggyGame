@@ -23,7 +23,6 @@ public class FroggyGame extends BasicGame {
 	public static final float TREE_VX = -8;
 	
 	private boolean isStarted = false;
-	//private Tree tree;
 	
 	public FroggyGame(String title) {
 		super(title);
@@ -32,7 +31,6 @@ public class FroggyGame extends BasicGame {
 	@Override
 	public void render(GameContainer container, Graphics g) throws SlickException {
 		background.draw(0, 0, GAME_WIDTH, GAME_HEIGHT);
-		//tree.render();
 		frog.render();
 		for (Tree tree : trees) {
 			tree.render();
@@ -45,14 +43,13 @@ public class FroggyGame extends BasicGame {
 		background = new Image("picture/background.jpg");
 		ground = new Image("picture/ground.png");
 		frog = new Frog(300, GROUND_LEVEL, FROG_JUMPDOWN_VY);
-		
 		initTrees();
 	}
 
 	private void initTrees() throws SlickException {
 		trees = new Tree[3];
-		for (int i = 0; i < 3; i++) {
-			trees[i] = new Tree(GAME_WIDTH/2, GAME_HEIGHT/2, TREE_VX);
+		for (int i = 0 ; i < 3 ; i++) {
+			trees[i] = new Tree(GAME_WIDTH/2 + 500*i, GAME_HEIGHT/2, TREE_VX);
 		}
 	}
 	
